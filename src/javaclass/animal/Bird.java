@@ -22,4 +22,8 @@ public class Bird extends animal{
 	public void eat() {
 		
 	}
+
+	protected void cry(){
+		System.out.println("bird cry!");
+	}
 }

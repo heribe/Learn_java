@@ -16,14 +16,16 @@ public class Test {
 //		System.out.println(bird.getFurColor());
 //
 //		chicken.showType();
-		Dog dog = new Dog(3);
+		/*Dog dog = new Dog(3);
 		dog.getSize();
 		Dog dog2 = new Dog();
 		dog2.getSize();
 		Hasiki Tom = new Hasiki();
 		Tom.getSize();
 		Hasiki Tom2 = new Hasiki(4);
-		Tom2.getSize();
+		Tom2.getSize();*/
+		Chicken chicken = new Chicken();
+		chicken.cry();
 
 	}
 
