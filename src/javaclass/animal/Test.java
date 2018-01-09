@@ -24,8 +24,8 @@ public class Test {
 		Tom.getSize();
 		Hasiki Tom2 = new Hasiki(4);
 		Tom2.getSize();*/
-		Chicken chicken = new Chicken();
-		chicken.cry();
+		Bird bird = new Chicken();
+		bird.showType();
 
 	}
 
