@@ -15,7 +15,7 @@ public class MiniMiniMusicApp {
     public void play(){
 
         try {
-            Sequencer player = MidiSystem.getSequencer(); //取得Sequencer
+            Sequencer player = MidiSystem.getSequencer(); //创建Sequencer
             player.open(); //打开Sequencer
 
             Sequence seq = new Sequence(Sequence.PPQ, 4); //创建Sequence

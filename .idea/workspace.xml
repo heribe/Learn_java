@@ -2,12 +2,18 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e7c20c88-8f0a-470d-9b63-065c4e2123c3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head/first/java/AboutCalendar.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head/first/java/IntegerAndInt.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/javaclass/animal/FireChicken.class" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/javaclass/animal/Test.class" afterPath="$PROJECT_DIR$/bin/javaclass/animal/Test.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head/first/java/AboutSerialization.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MakeEvent.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/SimpleGuil.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMiniMusicApp.class" afterPath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMiniMusicApp.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMusicCmdLine.class" afterPath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMusicCmdLine.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MusicTest1.class" afterPath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MusicTest1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/javaclass/animal/Test.java" afterPath="$PROJECT_DIR$/src/javaclass/animal/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/head/first/java/AboutCalendar.java" afterPath="$PROJECT_DIR$/src/head/first/java/AboutCalendar.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -27,52 +33,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaclass/animal/Test.java">
+      <file leaf-file-name="MiniMiniMusicApp.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="448">
-              <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state relative-caret-position="486">
+              <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Demo1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/head/first/java/Demo1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="48">
-              <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/head/first/java/Demo2.java">
+      <file leaf-file-name="AboutSerialization.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/head/first/java/AboutSerialization.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="32">
-              <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Demo3.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/head/first/java/Demo3.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="80">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntegerAndInt.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/head/first/java/IntegerAndInt.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
-              <folding />
+              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+              <folding>
+                <element signature="e#246#247#0" expanded="true" />
+                <element signature="e#280#281#0" expanded="true" />
+                <element signature="e#321#322#0" expanded="true" />
+                <element signature="e#357#358#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -80,54 +61,9 @@
       <file leaf-file-name="AboutCalendar.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/head/first/java/AboutCalendar.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="288">
-              <caret line="18" column="42" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="18" selection-end-column="42" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MusicTest1.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MusicTest1.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="320">
-              <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+            <state relative-caret-position="32">
+              <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiniMusicCmdLine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicCmdLine.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="592">
-              <caret line="46" column="11" lean-forward="false" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MiniMiniMusicApp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="400">
-              <caret line="25" column="63" lean-forward="false" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chicken.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/javaclass/animal/Chicken.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="64">
-              <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
-              <folding>
-                <element signature="e#163#164#0" expanded="true" />
-                <element signature="e#197#198#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -163,11 +99,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/head/first/java/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/cn/itcsat/demo/Demo2.java" />
-        <option value="$PROJECT_DIR$/src/cn/itcsat/demo/Demo3.java" />
-        <option value="$PROJECT_DIR$/src/javaclass_animal/Bird.java" />
-        <option value="$PROJECT_DIR$/src/javaclass_animal/Play.java" />
         <option value="$PROJECT_DIR$/src/javaclass_animal/Pet.java" />
         <option value="$PROJECT_DIR$/src/javaclass_animal/Hasiki.java" />
         <option value="$PROJECT_DIR$/src/javaclass_animal/Chicken.java" />
@@ -194,11 +125,8 @@
         <option value="$PROJECT_DIR$/test/javaclass_animal/ChickenTest.java" />
         <option value="$PROJECT_DIR$/src/helloworld/Demo2_2.java" />
         <option value="$PROJECT_DIR$/src/head/first/java/Demo3.java" />
-        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MusicTest1.java" />
         <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/FirstSound.java" />
-        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java" />
         <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicLine.java" />
-        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicCmdLine.java" />
         <option value="$PROJECT_DIR$/src/headfirstjava/game/ship/SimpleGame.java" />
         <option value="$PROJECT_DIR$/src/cn/itcsat/demo/Demo1.java" />
         <option value="$PROJECT_DIR$/src/headfirstjava/game/ship/DotCom.java" />
@@ -212,7 +140,16 @@
         <option value="$PROJECT_DIR$/src/head/first/java/Demo4.java" />
         <option value="$PROJECT_DIR$/src/head/first/java/Demo5.java" />
         <option value="$PROJECT_DIR$/src/head/first/java/IntegerAndInt.java" />
+        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MusicTest1.java" />
+        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicCmdLine.java" />
+        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/SimpleGuil.java" />
+        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java" />
+        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MakeEvent.java" />
+        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer1.java" />
+        <option value="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer2.java" />
+        <option value="$PROJECT_DIR$/foo.ser" />
         <option value="$PROJECT_DIR$/src/head/first/java/AboutCalendar.java" />
+        <option value="$PROJECT_DIR$/src/head/first/java/AboutSerialization.java" />
       </list>
     </option>
   </component>
@@ -223,9 +160,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="732" />
-    <option name="y" value="70" />
-    <option name="width" value="1094" />
+    <option name="x" value="925" />
+    <option name="y" value="48" />
+    <option name="width" value="1023" />
     <option name="height" value="965" />
   </component>
   <component name="ProjectInspectionProfilesVisibleTreeState">
@@ -279,6 +216,12 @@
               <item name="Learn_Java" type="b2602c69:ProjectViewProjectNode" />
               <item name="Learn_java" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Learn_Java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Learn_java" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="headfirstjava" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -299,7 +242,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
@@ -325,15 +268,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.MusicTest1">
-    <configuration name="AboutCalendar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.AboutSerialization">
+    <configuration name="AboutSerialization" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="head.first.java.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="head.first.java.AboutCalendar" />
+      <option name="MAIN_CLASS_NAME" value="head.first.java.AboutSerialization" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -345,52 +288,14 @@
       <module name="helloworld" />
       <envs />
     </configuration>
-    <configuration name="DotComGameTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="headfirstjava.game.ship.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="headfirstjava.game.ship.DotComGameTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="helloworld" />
-      <envs />
-    </configuration>
-    <configuration name="IntegerAndInt" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="head.first.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="head.first.java.IntegerAndInt" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="helloworld" />
-      <envs />
-    </configuration>
-    <configuration name="MusicTest1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MiniMusicCmdLine" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="headfirstjava.MIDI_music_player.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="headfirstjava.MIDI_music_player.MusicTest1" />
+      <option name="MAIN_CLASS_NAME" value="headfirstjava.MIDI_music_player.MiniMusicCmdLine" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -402,14 +307,52 @@
       <module name="helloworld" />
       <envs />
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="MiniMusicPlayer1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="javaclass.animal.*" />
+          <option name="PATTERN" value="headfirstjava.MIDI_music_player.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="javaclass.animal.Test" />
+      <option name="MAIN_CLASS_NAME" value="headfirstjava.MIDI_music_player.MiniMusicPlayer1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="helloworld" />
+      <envs />
+    </configuration>
+    <configuration name="MiniMusicPlayer2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="headfirstjava.MIDI_music_player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="headfirstjava.MIDI_music_player.MiniMusicPlayer2" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="helloworld" />
+      <envs />
+    </configuration>
+    <configuration name="SimpleGuil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="headfirstjava.MIDI_music_player.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="headfirstjava.MIDI_music_player.SimpleGuil" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -503,19 +446,19 @@
       <listeners />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.DotComGameTest" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Test" />
-      <item index="2" class="java.lang.String" itemvalue="Application.IntegerAndInt" />
-      <item index="3" class="java.lang.String" itemvalue="Application.AboutCalendar" />
-      <item index="4" class="java.lang.String" itemvalue="Application.MusicTest1" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MiniMusicCmdLine" />
+      <item index="1" class="java.lang.String" itemvalue="Application.SimpleGuil" />
+      <item index="2" class="java.lang.String" itemvalue="Application.MiniMusicPlayer1" />
+      <item index="3" class="java.lang.String" itemvalue="Application.MiniMusicPlayer2" />
+      <item index="4" class="java.lang.String" itemvalue="Application.AboutSerialization" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.MusicTest1" />
-        <item index="1" class="java.lang.String" itemvalue="Application.AboutCalendar" />
-        <item index="2" class="java.lang.String" itemvalue="Application.IntegerAndInt" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Test" />
-        <item index="4" class="java.lang.String" itemvalue="Application.DotComGameTest" />
+        <item index="0" class="java.lang.String" itemvalue="Application.AboutSerialization" />
+        <item index="1" class="java.lang.String" itemvalue="Application.MiniMusicPlayer2" />
+        <item index="2" class="java.lang.String" itemvalue="Application.MiniMusicPlayer1" />
+        <item index="3" class="java.lang.String" itemvalue="Application.SimpleGuil" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MiniMusicCmdLine" />
       </list>
     </recent_temporary>
   </component>
@@ -530,6 +473,21 @@
       <option name="presentableId" value="Default" />
       <updated>1509429920482</updated>
     </task>
+    <task id="LOCAL-00001" summary="learn Calendar">
+      <created>1515468409466</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1515468409466</updated>
+    </task>
+    <task id="LOCAL-00002" summary="MiniMusicCmdLine">
+      <created>1515479639209</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1515479639209</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -574,40 +532,70 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="732" y="70" width="1094" height="965" extended-state="0" />
-    <editor active="true" />
+    <frame x="925" y="48" width="1023" height="965" extended-state="0" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32867134" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32587412" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25834364" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3250927" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32921347" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289855" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19777504" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32587412" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880098" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3250927" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26499033" sideWeight="0.49315068" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24911453" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23260644" sideWeight="0.4779412" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24818276" sideWeight="0.49264705" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24927536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2027972" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.1826087" sideWeight="0.5068493" order="5" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23260644" sideWeight="0.52205884" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33367348" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32932165" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="learn Calendar" />
+    <MESSAGE value="MiniMusicCmdLine" />
+    <option name="LAST_COMMIT_MESSAGE" value="MiniMusicCmdLine" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -620,46 +608,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Exception.java" />
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/ClassLoader.java" />
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/net/URLClassLoader.java" />
-    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/security/SecureClassLoader.java" />
-    <entry file="file://$PROJECT_DIR$/test/javaclass_manager/DBManagerProxyTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/helloworld/Demo2_2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="37">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloworld/Demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="80">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/javaclass/animal/ChickenTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="160">
-          <caret line="14" column="0" lean-forward="true" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bin/head/first/java/Demo1.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/helloworld/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/helloworld/first.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="176">
@@ -899,8 +847,8 @@
         <state relative-caret-position="64">
           <caret line="6" column="0" lean-forward="true" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding>
-            <element signature="e#163#164#0" expanded="true" />
-            <element signature="e#197#198#0" expanded="true" />
+            <element signature="e#163#164#0" expanded="false" />
+            <element signature="e#197#198#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -945,10 +893,53 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/head/first/java/AboutCalendar.java">
+    <entry file="file://$PROJECT_DIR$/src/head/first/java/IntegerAndInt.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="42" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="18" selection-end-column="42" />
+        <state relative-caret-position="256">
+          <caret line="16" column="5" lean-forward="true" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/sound/midi/MidiSystem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="390" column="60" lean-forward="false" selection-start-line="390" selection-start-column="60" selection-end-line="390" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Throwable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="199">
+          <caret line="779" column="34" lean-forward="false" selection-start-line="779" selection-start-column="34" selection-end-line="779" selection-end-column="34" />
+          <folding>
+            <element signature="e#10280#10281#0" expanded="false" />
+            <element signature="e#10314#10315#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/java/lang/Exception.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="335">
+          <caret line="53" column="11" lean-forward="true" selection-start-line="53" selection-start-column="11" selection-end-line="53" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Program Files/Java/jdk1.8.0_144/src.zip!/javax/sound/midi/MidiUnavailableException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicCmdLine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-42">
+          <caret line="2" column="9" lean-forward="false" selection-start-line="2" selection-start-column="9" selection-end-line="2" selection-end-column="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -957,33 +948,84 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MusicTest1.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="320">
-          <caret line="20" column="0" lean-forward="false" selection-start-line="20" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        <state relative-caret-position="192">
+          <caret line="12" column="31" lean-forward="false" selection-start-line="12" selection-start-column="31" selection-end-line="12" selection-end-column="31" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicCmdLine.java">
+    <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/SimpleGuil.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="592">
-          <caret line="46" column="11" lean-forward="false" selection-start-line="46" selection-start-column="11" selection-end-line="46" selection-end-column="11" />
+        <state relative-caret-position="224">
+          <caret line="14" column="5" lean-forward="true" selection-start-line="14" selection-start-column="5" selection-end-line="14" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="640">
+          <caret line="40" column="35" lean-forward="false" selection-start-line="40" selection-start-column="35" selection-end-line="40" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="21" column="12" lean-forward="true" selection-start-line="21" selection-start-column="12" selection-end-line="22" selection-end-column="39" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MakeEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="9" column="83" lean-forward="true" selection-start-line="9" selection-start-column="80" selection-end-line="9" selection-end-column="83" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/foo.ser">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="400">
-          <caret line="25" column="63" lean-forward="false" selection-start-line="25" selection-start-column="63" selection-end-line="25" selection-end-column="63" />
+        <state relative-caret-position="486">
+          <caret line="50" column="0" lean-forward="false" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/head/first/java/IntegerAndInt.java">
+    <entry file="file://$PROJECT_DIR$/src/head/first/java/AboutCalendar.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="64">
-          <caret line="4" column="30" lean-forward="false" selection-start-line="4" selection-start-column="30" selection-end-line="4" selection-end-column="30" />
+        <state relative-caret-position="32">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/head/first/java/AboutSerialization.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="32">
+          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+          <folding>
+            <element signature="e#246#247#0" expanded="true" />
+            <element signature="e#280#281#0" expanded="true" />
+            <element signature="e#321#322#0" expanded="true" />
+            <element signature="e#357#358#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
