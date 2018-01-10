@@ -3,17 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="e7c20c88-8f0a-470d-9b63-065c4e2123c3" name="Default" comment="">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/head/first/java/AboutSerialization.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MakeEvent.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMusicPlayer2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/SimpleGuil.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMiniMusicApp.class" afterPath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMiniMusicApp.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMusicCmdLine.class" afterPath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MiniMusicCmdLine.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MusicTest1.class" afterPath="$PROJECT_DIR$/bin/headfirstjava/MIDI_music_player/MusicTest1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/head/first/java/AboutCalendar.java" afterPath="$PROJECT_DIR$/src/head/first/java/AboutCalendar.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java" afterPath="$PROJECT_DIR$/src/headfirstjava/MIDI_music_player/MiniMiniMusicApp.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -46,13 +37,13 @@
       <file leaf-file-name="AboutSerialization.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/head/first/java/AboutSerialization.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="32">
-              <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            <state relative-caret-position="440">
+              <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
               <folding>
-                <element signature="e#246#247#0" expanded="true" />
-                <element signature="e#280#281#0" expanded="true" />
-                <element signature="e#321#322#0" expanded="true" />
-                <element signature="e#357#358#0" expanded="true" />
+                <element signature="e#249#250#0" expanded="true" />
+                <element signature="e#283#284#0" expanded="true" />
+                <element signature="e#324#325#0" expanded="true" />
+                <element signature="e#360#361#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -160,8 +151,8 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="925" />
-    <option name="y" value="48" />
+    <option name="x" value="782" />
+    <option name="y" value="30" />
     <option name="width" value="1023" />
     <option name="height" value="965" />
   </component>
@@ -224,13 +215,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="headfirstjava" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Learn_Java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Learn_java" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="headfirstjava" type="462c0819:PsiDirectoryNode" />
-              <item name="MIDI_music_player" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -242,10 +226,11 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="preferences.intentionPowerPack" />
     <property name="create.test.in.the.same.root" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CreateTestDialog.RecentsKey">
@@ -487,7 +472,14 @@
       <option name="project" value="LOCAL" />
       <updated>1515479639209</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Improve MiniMusicPlayer">
+      <created>1515585432964</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1515585432964</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -532,7 +524,8 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="925" y="48" width="1023" height="965" extended-state="0" />
+    <frame x="782" y="30" width="1023" height="965" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25834364" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -547,7 +540,7 @@
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3250927" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23260644" sideWeight="0.4779412" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.23260644" sideWeight="0.4779412" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24818276" sideWeight="0.49264705" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24927536" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -595,7 +588,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="learn Calendar" />
     <MESSAGE value="MiniMusicCmdLine" />
-    <option name="LAST_COMMIT_MESSAGE" value="MiniMusicCmdLine" />
+    <MESSAGE value="Improve MiniMusicPlayer" />
+    <option name="LAST_COMMIT_MESSAGE" value="Improve MiniMusicPlayer" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1018,13 +1012,13 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/head/first/java/AboutSerialization.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="32">
-          <caret line="2" column="21" lean-forward="false" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        <state relative-caret-position="440">
+          <caret line="51" column="5" lean-forward="true" selection-start-line="51" selection-start-column="5" selection-end-line="51" selection-end-column="5" />
           <folding>
-            <element signature="e#246#247#0" expanded="true" />
-            <element signature="e#280#281#0" expanded="true" />
-            <element signature="e#321#322#0" expanded="true" />
-            <element signature="e#357#358#0" expanded="true" />
+            <element signature="e#249#250#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+            <element signature="e#324#325#0" expanded="true" />
+            <element signature="e#360#361#0" expanded="true" />
           </folding>
         </state>
       </provider>
